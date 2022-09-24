@@ -1,5 +1,5 @@
 ## Lenguaje de Programacion II
-Tareas de LP2
+Tareas y tabajos de LP2
 
 ### Introducción a Jupyter
 - [Editor html](https://wordtohtml.net/es)
